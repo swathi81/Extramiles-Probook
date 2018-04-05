@@ -1,0 +1,12 @@
+.disinline{
+    display: inline-block;
+}
+.logo{
+    width:200px;
+}
+.custm-hr{
+    border-top: solid 2px #E51635;
+}
+.cust-padding{
+    padding:40px;
+}
